@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Run testing from core\""
-  }
+  },
+  "gitHead": "0a12e7b523627c221a99cfb5017e9943aeea3ed2"
 }
