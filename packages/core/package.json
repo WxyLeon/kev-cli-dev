@@ -1,8 +1,8 @@
 {
   "name": "@kev-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "kev-cli-dev core",
-  "author": "wangxy <wb-wxy885985@antgroup.com>",
+  "author": "wangxy",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
