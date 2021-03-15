@@ -22,5 +22,8 @@
   "dependencies": {
     "@kev-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "0a12e7b523627c221a99cfb5017e9943aeea3ed2"
+  "gitHead": "8a6649cb850d8e076ff03b677740548cdb101224",
+  "publishConfig": {
+    "access": "public"
+  }
 }
