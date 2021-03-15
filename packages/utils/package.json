@@ -1,6 +1,6 @@
 {
   "name": "@kev-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kev-cli-dev utils",
   "author": "wangxy <wb-wxy885985@antgroup.com>",
   "homepage": "",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Run testing from core\""
-  },
-  "dependencies": {}
+  }
 }

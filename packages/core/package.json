@@ -1,6 +1,6 @@
 {
   "name": "@kev-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kev-cli-dev core",
   "author": "wangxy <wb-wxy885985@antgroup.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@kev-cli-dev/utils": "^1.0.0"
+    "@kev-cli-dev/utils": "^1.0.1"
   }
 }
