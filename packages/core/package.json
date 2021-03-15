@@ -1,6 +1,6 @@
 {
   "name": "@kev-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "kev-cli-dev core",
   "author": "wangxy",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@kev-cli-dev/utils": "^1.0.2"
+    "@kev-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "8a6649cb850d8e076ff03b677740548cdb101224",
   "publishConfig": {
